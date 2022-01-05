@@ -1,4 +1,7 @@
+![bannergit1](https://user-images.githubusercontent.com/62700335/148229764-73e3904d-67a2-41cc-9083-8faf1768a96a.jpg)
+
 ## Olá! Eu sou o Yuri Santos 👋
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yurisantos.y/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yurisantos_y)
