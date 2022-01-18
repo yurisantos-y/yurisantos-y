@@ -8,6 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-santos-8771191b3/)
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yurisantos-y&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurisantos-y&layout=compact&theme=radical)](https://github.com/yurisantos-y/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia. 📒
 
