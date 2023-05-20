@@ -1,4 +1,5 @@
-![bannergit1](https://user-images.githubusercontent.com/62700335/148229764-73e3904d-67a2-41cc-9083-8faf1768a96a.jpg)
+![bannergit1](https://github.com/yurisantos-y/yurisantos-y/blob/main/Frame%2052.jpg)
+
 
 ## Olá! Eu sou o Yuri Santos 👋
 
